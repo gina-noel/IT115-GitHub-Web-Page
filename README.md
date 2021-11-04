@@ -1,17 +1,17 @@
 # IT115-GitHub-Web-Page
- Google Doc for Github Web Page Assignment
+##  Google Doc for Github Web Page Assignment
 
-Roles
+## Roles
 * Repository Owner/Creator (Creates repository, approves pull requests/merges, make sure page is published/viewable via github pages): Gina
 * Researcher(s) (researches topic): Everyone
 * Writer(s) (writes content for the page): Alexis
 * Developer (takes content and formats in HTML): Emmy, Christine
 * Designer (adds CSS/styles, wireframe): Ted, Devon
 
-Choose a topic
-Basics of Web Design
+## Choose a topic
+### Basics of Web Design
 
-Research/Brain Dump section
+### Research/Brain Dump section
 We can all do a little research on the topic and add/link it here.
 
 This page about color-blindness and color palettes is kind of cool. Maybe we can just use a palette from there. Color theory, etc
@@ -24,10 +24,10 @@ How visually impaired people view the web(Gina)
 (Ted)There is always an object or purpose to any web page. In this article by Alan Smith, the author talks about a CTA, or a “Call to Action.” Whether you want viewers to sign up, make a purchase, or simply find and view the content you are publishing, this CTA must be very clear and apparent from the instant they see the page. He encourages designers to make sure the call to action is the very first element a user sees when they view a page. 
 (Ted)Here is an article about print/web design, in which the author talks about how a visual grid system for displaying text and documents has its roots in the first century (possibly older)
 
-Writing section
+### Writing section
 Writing of the main content will go here. Formatting will be helpful for the person who takes the content and puts it in HTML
 
-History of Web design
+### History of Web design
 The very first website on the World Wide Web was created by Tim Berners-Lee who designed the website at the Swiss research center, CERN (European Organization for Nuclear Research). You can still access the basic CERN website which was developed for the purpose of distributing information to other researchers
 link text
 what is web design
@@ -35,19 +35,19 @@ Web design refers to the design of websites that are displayed on the internet. 
 link text
 
 
-Style guide/ideas
+### Style guide/ideas
 Let’s agree on some general styling guidelines, even though maybe only one or two people will ultimately write the CSS, we can all contribute ideas here. For example, we can agree on a font, main/highlight colors, etc.
 
 We will be embedding citations within the article with <a> tags.
 
-Wireframe
+### Wireframe
 
 
 
 
 
-Work Log
-Newest entries added at the top.
+##  Work Log
+### Newest entries added at the top.
 
 
 * 11/3/2021 (Devon) Added more styling to the styles.css. This includes the backgrounds, padding and text decoration. (35 min)
@@ -58,4 +58,3 @@ Newest entries added at the top.
 * 11/2 (Gina) Created our github repository, added collaborators and troubleshooted some issues regarding cloning (40 min). Researched topic and images (20)
 * 11/2/2021 (Ted) Created Google Doc, shared with team on Slack, added some sections to document (20 min)
 * 10/30/2021 (Devon) Created Slack channel for our team (10 min)
-
