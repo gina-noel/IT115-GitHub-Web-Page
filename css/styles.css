@@ -5,38 +5,42 @@
 html {
   font-family: Arial, Helvetica, sans-serif;
   font-size: large;
-  border-left-style: 1px solid black;
-  border-right-style: 1px solid black;
+  /* border-left-style: 1px solid black; */
+  /* border-right-style: 1px solid black; */
 }
 body {
-  width: 50%;
-  margin: 50px auto;
+  width: 60%;
+  margin: 60px auto;
   font-weight: lighter;
-  text-align: center;
-  border-left: 1px solid black;
-  border-right: 1px solid black;
-  padding: 20px;
+  /* text-align: center; */
+  /* border-left: 1px solid black; */
+  /* border-right: 1px solid black; */
+  /* padding: 20px; */
   background: #4a6c6f;
 }
-.welcome h2 {
+.welcome h1 {
   width: max-content;
   font-size: 65px;
   height: 80px;
   margin: 30px auto;
-  text-decoration: underline;
+  color: #534;
+  /* text-decoration: underline; */
 }
 p {
   line-height: 150%;
+  font-size:120%;
+  color:#534;
 }
 h3 {
-  text-decoration: underline;
-  color: #846075;
+  /* text-decoration: underline; */
+  color: #645;
+  font-size:190%;
 }
 
 div {
   padding: 20px;
-  background: rgba(245, 245, 220, 0.409);
-  border-top: 0.5px solid black;
+  background:rgba(245, 245, 220, 0.98);
+  border-bottom: 0.5px solid rgba(0, 0, 0, 0.2);
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 a {
@@ -57,21 +61,22 @@ a:hover {
 
 .image {
   overflow: hidden;
-  width: 600px;
-  height: 400px;
-  margin: 0 auto;
-  margin-bottom: 20px;
+  width:fit-content;
+  height: 100%;
+  text-align:center;
+  margin: 30px auto;
   border-radius: 5px;
+  background:#756;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 .image img {
-  width: 100%;
+  max-width: 100%;
+  margin:0 auto;
   height: 100%;
 }
 .welcome {
-  background: rgba(245, 245, 220, 0.409);
-  border-top: 0.5px solid black;
-  color: #846075;
+  background: rgba(245, 245, 220); 
+  /* border-top: 0.5px solid black; */
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 /* End Class Styles */ ;
