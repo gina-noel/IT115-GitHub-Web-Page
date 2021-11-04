@@ -1,7 +1,8 @@
 # IT115-GitHub-Web-Page
 ## Github Web Page Assignment
 
-[## Website link](https://gina-noel.github.io/IT115-GitHub-Web-Page/)
+## Webpage Link
+Find our final web page [here](https://gina-noel.github.io/IT115-GitHub-Web-Page/)
 
 ## Roles
 * Repository Owner/Creator (Creates repository, approves pull requests/merges, make sure page is published/viewable via github pages): Gina
