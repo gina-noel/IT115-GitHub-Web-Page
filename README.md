@@ -1,5 +1,7 @@
 # IT115-GitHub-Web-Page
-##  Google Doc for Github Web Page Assignment
+## Github Web Page Assignment
+
+[## Website link](https://gina-noel.github.io/IT115-GitHub-Web-Page/)
 
 ## Roles
 * Repository Owner/Creator (Creates repository, approves pull requests/merges, make sure page is published/viewable via github pages): Gina
@@ -8,7 +10,7 @@
 * Developer (takes content and formats in HTML): Emmy, Christine
 * Designer (adds CSS/styles, wireframe): Ted, Devon
 
-## Choose a topic
+## Topic
 ### Basics of Web Design
 
 ### Research/Brain Dump section
