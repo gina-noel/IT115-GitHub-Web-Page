@@ -56,7 +56,7 @@ We will be embedding citations within the article with <a> tags.
 ## Work Log
 
 ### Newest entries added at the top.
-
+- 11/4 (Ted) Adjusted some of the styles (30 min).
 - 11/4 (Christine) Created new branch and pull request to updated html to add color theory and font type (30 min).
 - 11/4/2021 (Gina) Added more collaborators, added the readme file to the project, formated the document and added wireframe image to it, commented on pull requests (40 min)
 - 11/4/2021 (Devon) Added divisions to support recent html content. Streamlined CSS for better readability. (15 min)
