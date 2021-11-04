@@ -42,9 +42,7 @@ We will be embedding citations within the article with <a> tags.
 
 ### Wireframe
 
-
-
-
+<img src="images/wireframe.png" alt="wireframe" />
 
 ##  Work Log
 ### Newest entries added at the top.
