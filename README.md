@@ -35,6 +35,19 @@ How visually impaired people view the web(Gina)
 
 Writing of the main content will go here. Formatting will be helpful for the person who takes the content and puts it in HTML
 
+Web Design Software Tools(Minnie)
+Web Page design can be written in simple txt, or can be used in some tools. The following are the more popular web design tools:
+Dreamweaver
+Adobe Dreamweaver is an easy editing software and includes smartcode hinting and live view. It is easy for designers who do not know code.
+Nova
+The web design tool seeks to reduce the number of applications required to develop a website. It is a new and improved version of Panic and works for the Mac OS X operating system.
+Photoshop
+Adobe Photoshop is a very popular graphics editor software. It has very strong tools and options and different effects can be made.
+Google Web Designer
+Google Web Designer is a free web design tool. It ensures  designs can be run and displayed on any device from desktops to smartphones.
+Firefox Developer
+Firefox Developer Edition is a version of Firefox specifically for web developers. The tool’s features include analyzing and debugging.
+
 ### History of Web design
 
 The very first website on the World Wide Web was created by Tim Berners-Lee who designed the website at the Swiss research center, CERN (European Organization for Nuclear Research). You can still access the basic CERN website which was developed for the purpose of distributing information to other researchers
