@@ -56,7 +56,7 @@ what is web design
 Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. ... A web designer works on the appearance, layout, and, in some cases, content of a website..
 link text
 
-Core Elements of Modern Web Design (Minnie)
+### Core Elements of Modern Web Design (Minnie)
 Nowadays, people spend a lot of time and attention on the Internet. Effective web design can attract users' attention, and it can also help the website to have a higher ranking on Google searches. It will make the website easier to be viewed by users. The following 7 basic design elements can help the website make users have a better experience.
 Mobile-Friendly Layout
 Clean and Bold Typography
