@@ -37,16 +37,16 @@ Writing of the main content will go here. Formatting will be helpful for the per
 
 ### Web Design Software Tools(Minnie)
 Web Page design can be written in simple txt, or can be used in some tools. The following are the more popular web design tools:
-1. Dreamweaver
+‧ Dreamweaver
 
 Adobe Dreamweaver is an easy editing software and includes smartcode hinting and live view. It is easy for designers who do not know code.
-3. Nova
+‧ Nova
 
 The web design tool seeks to reduce the number of applications required to develop a website. It is a new and improved version of Panic and works for the Mac OS X operating system.
-3. Photoshop
+‧ Photoshop
 
 Adobe Photoshop is a very popular graphics editor software. It has very strong tools and options and different effects can be made.
-4. Google Web Designer
+‧ Google Web Designer
 
 Google Web Designer is a free web design tool. It ensures  designs can be run and displayed on any device from desktops to smartphones.
 Firefox Developer
