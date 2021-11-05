@@ -54,7 +54,10 @@ a:hover {
   padding: 5px;
 }
 /* End style */
-
+.tools h2 {
+  color: #846075;
+  text-decoration: underline;
+}
 .image {
   overflow: hidden;
   width: 600px;
