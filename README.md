@@ -10,7 +10,7 @@ Find our final web page [here](https://gina-noel.github.io/IT115-GitHub-Web-Page
 
 - Repository Owner/Creator (Creates repository, approves pull requests/merges, make sure page is published/viewable via github pages): Gina
 - Researcher(s) (researches topic): Everyone
-- Writer(s) (writes content for the page): Alexis
+- Writer(s) (writes content for the page): Alexis, Minnie
 - Developer (takes content and formats in HTML): Emmy, Christine
 - Designer (adds CSS/styles, wireframe): Ted, Devon
 
@@ -56,6 +56,17 @@ what is web design
 Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. ... A web designer works on the appearance, layout, and, in some cases, content of a website..
 link text
 
+Core Elements of Modern Web Design (Minnie)
+Nowadays, people spend a lot of time and attention on the Internet. Effective web design can attract users' attention, and it can also help the website to have a higher ranking on Google searches. It will make the website easier to be viewed by users. The following 7 basic design elements can help the website make users have a better experience.
+Mobile-Friendly Layout
+Clean and Bold Typography
+Hamburger Menus
+Optimization for Speed
+White Space
+SEO Optimization
+Cross-browser and device compatibility
+
+
 ### Style guide/ideas
 
 Let’s agree on some general styling guidelines, even though maybe only one or two people will ultimately write the CSS, we can all contribute ideas here. For example, we can agree on a font, main/highlight colors, etc.
@@ -73,6 +84,8 @@ We will be embedding citations within the article with <a> tags.
 ## Work Log
 
 ### Newest entries added at the top.
+- 11/5 (Minnie) added more content to google doc(20 min)
+- 11/4(Minnie) did research and added content on google doc and GitHub readme (25min)
 - 11/4 (Ted) Adjusted some of the styles (30 min).
 - 11/4 (Christine) Created new branch and pull request to updated html to add color theory and font type (30 min).
 - 11/4/2021 (Gina) Added more collaborators, added the readme file to the project, formated the document and added wireframe image to it, commented on pull requests (40 min)
