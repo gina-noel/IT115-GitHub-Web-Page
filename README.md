@@ -61,6 +61,10 @@ link text
 Let’s agree on some general styling guidelines, even though maybe only one or two people will ultimately write the CSS, we can all contribute ideas here. For example, we can agree on a font, main/highlight colors, etc.
 
 We will be embedding citations within the article with <a> tags.
+ Source for color theory section https://en.wikipedia.org/wiki/Color_psychology#:~:text=Color%20psychology%20is%20the%20study,as%20the%20taste%20of%20food.&text=Marketers%20see%20color%20as%20important,perceptions%20about%20goods%20and%20services.
+  Source for text section
+  https://w3-lab.com/4-types-of-fonts-their-variants-in-web-design-examples/
+  
 
 ### Wireframe
 
@@ -77,6 +81,7 @@ We will be embedding citations within the article with <a> tags.
 - 11/3/2021 (Devon) Added css consistent with wireframe, created divisions inside the index.html file for ease of access to elements, changed reference links into buttons. (30 min)
 - 11/2/2021 (Ted) finished wireframe, added some content to google doc, started adjusting styles of web page (30 min)
 - 11/2/2021 (Ted) spent time with team assigning and discussing roles, determining topic, added css and image folders, started wireframe (60 min)
+- 11/2/2021 (Alexis) spent time writing content regarding color psychology and font types and saving sources
 - 11/2 (Christine) Assisted team members with Slack (2 min), Met with group to discuss topic (30 min) and worked on HTML with Emmy (30 min)
 - 11/2 (Gina) Created our github repository, added collaborators and troubleshooted some issues regarding cloning (40 min). Researched topic and images (20)
 - 11/2/2021 (Ted) Created Google Doc, shared with team on Slack, added some sections to document (20 min)
