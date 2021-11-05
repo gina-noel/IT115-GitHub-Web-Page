@@ -35,15 +35,15 @@ How visually impaired people view the web(Gina)
 
 Writing of the main content will go here. Formatting will be helpful for the person who takes the content and puts it in HTML
 
-Web Design Software Tools(Minnie)
+### Web Design Software Tools(Minnie)
 Web Page design can be written in simple txt, or can be used in some tools. The following are the more popular web design tools:
-Dreamweaver
+1. Dreamweaver
 Adobe Dreamweaver is an easy editing software and includes smartcode hinting and live view. It is easy for designers who do not know code.
-Nova
+2. Nova
 The web design tool seeks to reduce the number of applications required to develop a website. It is a new and improved version of Panic and works for the Mac OS X operating system.
-Photoshop
+3. Photoshop
 Adobe Photoshop is a very popular graphics editor software. It has very strong tools and options and different effects can be made.
-Google Web Designer
+4. Google Web Designer
 Google Web Designer is a free web design tool. It ensures  designs can be run and displayed on any device from desktops to smartphones.
 Firefox Developer
 Firefox Developer Edition is a version of Firefox specifically for web developers. The tool’s features include analyzing and debugging.
@@ -58,13 +58,13 @@ link text
 
 ### Core Elements of Modern Web Design (Minnie)
 Nowadays, people spend a lot of time and attention on the Internet. Effective web design can attract users' attention, and it can also help the website to have a higher ranking on Google searches. It will make the website easier to be viewed by users. The following 7 basic design elements can help the website make users have a better experience.
-Mobile-Friendly Layout
-Clean and Bold Typography
-Hamburger Menus
-Optimization for Speed
-White Space
-SEO Optimization
-Cross-browser and device compatibility
+‧ Mobile-Friendly Layout
+‧ Clean and Bold Typography
+‧ Hamburger Menus
+‧ Optimization for Speed
+‧ White Space
+‧ SEO Optimization
+‧ Cross-browser and Device Compatibility
 
 
 ### Style guide/ideas
