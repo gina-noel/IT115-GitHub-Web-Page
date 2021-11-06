@@ -91,10 +91,14 @@ We will be embedding citations within the article with <a> tags.
 ### Wireframe
 
 <img src="images/wireframe.png" alt="wireframe" />
-
+ 
+ ### BG image
+ 
+<img src="images/image.jpg" alt="" />
 ## Work Log
 
 ### Newest entries added at the top.
+- 11/5 (Minnie) created a background image (80 min)
 - 11/5 (Minnie) added more content to google doc(20 min)
 - 11/4(Minnie) did research and added content on google doc and GitHub readme (25min)
 - 11/4 (Ted) Adjusted some of the styles (30 min).
